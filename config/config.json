@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "fadhil",
+    "password": "passwordpalingsusah",
+    "database": "db_article_swagger",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "",
+    "password": "",
+    "database": "db_article_swagger",
+    "host": "127.0.0.1",
+    "dialect": ""
+  },
+  "production": {
+    "username": "",
+    "password": "",
+    "database": "db_article_swagger",
+    "host": "127.0.0.1",
+    "dialect": ""
+  }
+}
